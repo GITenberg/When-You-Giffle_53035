@@ -1,5 +1,8 @@
 _repo: When-You-Giffle_53035
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 53035-h/images/cover.jpg
 creator:
   author:
     agent_name: Stecher, L. J., Jr.
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '32723'
     url: http://www.gutenberg.org/2009/agents/32723
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53035#When-You-Giffle
 gutenberg_issued: '2016-09-12'
 gutenberg_type: Text
 identifiers:
